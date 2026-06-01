@@ -1,0 +1,7 @@
+David's orange cat is named Bash
+Bash is short for Sebastian
+David's siamese cat is named Moon
+Moon is a flamepoint siamese
+Moon is 5 years old
+Bash is 5 years old
+Moon is older than Bash
